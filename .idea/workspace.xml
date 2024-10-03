@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b4f573c-d4b0-4eb7-ad34-f1617f65ba94" name="Changes" comment="Made cmscraper a module">
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/enhancement_sim_test.py" afterDir="false" />
+    <list default="true" id="6b4f573c-d4b0-4eb7-ad34-f1617f65ba94" name="Changes" comment="Fixed enhancement function and wrote test cases.">
+      <change afterPath="$PROJECT_DIR$/test/cmscraper_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmscraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmscraper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/enhancement_sim.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/enhancement_sim.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python tests.Python tests in cmscraper_test.py.executor": "Run",
     "Python tests.Python tests in enhancement_sim_test.py.executor": "Run",
     "Python.cmscraper.executor": "Run",
     "Python.enhancement_sim.executor": "Run",
@@ -102,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727971013003</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fixed enhancement function and wrote test cases.">
+      <option name="closed" value="true" />
+      <created>1727972923428</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727972923428</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +145,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create and implemented cmscraper to find and filter accessory information." />
     <MESSAGE value="Made cmscraper a module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made cmscraper a module" />
+    <MESSAGE value="Fixed enhancement function and wrote test cases." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed enhancement function and wrote test cases." />
   </component>
 </project>

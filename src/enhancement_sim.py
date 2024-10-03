@@ -1,11 +1,4 @@
 import random
-import json
-
-def saveToJSON(data, filename):
-    with open(filename, 'w') as json_file:
-        json.dump(data, json_file, indent=4)
-    print(f"Data saved to {filename}")
-
 def enhance(chance):
     if chance < 0 or chance > 1:
         raise ValueError("Chance must be between 0 and 1")
