@@ -86,7 +86,7 @@ def fetch_accessories(main_category=20, lang='en'):
 
 
 # 2. Filter accessories (e.g., remove Manos accessories, those with low stock, or low base price)
-def filter_accessories(accessories, min_price=4_000_000, min_stock=30):
+def filter_accessories(accessories, min_price=0, min_stock=0):
     filtered = []
     for accessory in accessories:
         if "Manos" in accessory['name']:
@@ -133,7 +133,7 @@ def get_enhanceable_accessories():
     enhanceables = []
     for accessory in filtered_accessories:
         prices = fetch_enhancement_prices(accessory['id'])
-        if len(prices) == 5:  # Only include accessories that have all 5 enhancement levels
+        if prices[4] > 1_000_000:  # Only include accessories that have all 5 enhancement levels
             accessory['prices'] = prices
             enhanceables.append(accessory)
 
