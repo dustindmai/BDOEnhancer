@@ -64,12 +64,12 @@ def fetch_enhanceable_accessories():
 '''
 
 import requests
-
+import json
 # API Endpoints
 WORLD_MARKET_LIST_URL = 'https://api.arsha.io/v2/na/GetWorldMarketList'
 MARKET_PRICE_INFO_URL = 'https://api.arsha.io/v2/na/GetMarketPriceInfo'
-
-
+ITEM_DATABASE_URL = 'https://api.arsha.io/util/db'
+ITEM_URL = 'https://api.arsha.io/v1/na/item'
 # 1. Fetch accessories from the API
 def fetch_accessories(main_category=20, lang='en'):
     params = {
@@ -80,30 +80,38 @@ def fetch_accessories(main_category=20, lang='en'):
     response = requests.get(WORLD_MARKET_LIST_URL, params=params)
 
     if response.status_code == 200:
-        return response.json()
+        accessories = response.json()
+        for accessory in accessories:
+            params ={
+                "id": accessory['id']
+            }
+            response = requests.get(ITEM_DATABASE_URL, params=params)
+            if response.status_code == 200:
+                data = response.json()
+                accessory['grade'] = data['grade']
+            else:
+                Exception(f"Error: Unable to fetch data (Status Code: {response.status_code})")
+            
+            params = {
+                "id": accessory['id'],
+                "region": "na"
+            }
+            response = requests.get(ITEM_URL, params=params)
+            if response.status_code == 200:
+                data = response.json()
+                maxEnhance = len(data['resultMsg'].split('|'))-1
+                accessory['maxEnhance'] = maxEnhance
+        return accessories
     else:
         raise Exception(f"Error: Unable to fetch data (Status Code: {response.status_code})")
 
 
-# 2. Filter accessories (e.g., remove Manos accessories, those with low stock, or low base price)
-def filter_accessories(accessories, min_price=0, min_stock=0):
-    filtered = []
-    for accessory in accessories:
-        if "Manos" in accessory['name']:
-            continue
-        if accessory['basePrice'] < min_price:
-            continue
-        if accessory['currentStock'] < min_stock:
-            continue
-        filtered.append(accessory)
-
-    return filtered
-
 
 # 3. Fetch enhancement prices for a given accessory by enhancement levels (0-4)
-def fetch_enhancement_prices(accessory_id, max_enhancement_level=5, lang='en'):
+def fetch_enhancement_prices(accessory_id, max_enhancement_level, lang='en'):
     prices = []
-    for enhanceLevel in range(max_enhancement_level):
+        
+    for enhanceLevel in range(max_enhancement_level+1):
         params = {
             "id": accessory_id,
             "sid": enhanceLevel,
@@ -128,13 +136,7 @@ def fetch_enhancement_prices(accessory_id, max_enhancement_level=5, lang='en'):
 # 4. Run the full scraping and filtering process
 def get_enhanceable_accessories():
     accessories = fetch_accessories()
-    filtered_accessories = filter_accessories(accessories)
-
-    enhanceables = []
-    for accessory in filtered_accessories:
-        prices = fetch_enhancement_prices(accessory['id'])
-        if prices[4] > 1_000_000:  # Only include accessories that have all 5 enhancement levels
-            accessory['prices'] = prices
-            enhanceables.append(accessory)
-
-    return enhanceables
+    for accessory in accessories:
+        prices = fetch_enhancement_prices(accessory['id'], accessory['maxEnhance'])
+        accessory['prices'] = prices
+    return accessories

@@ -1,1 +1,3049 @@
-[{"name": "Yuria Ring", "id": 12001, "currentStock": 31, "totalTrades": 536274, "basePrice": 37500, "mainCategory": 20, "subCategory": 1, "prices": [37850, 111923, 520000, 4880000, 11200000]}, {"name": "Bares Ring", "id": 12002, "currentStock": 35, "totalTrades": 1613602, "basePrice": 30200, "mainCategory": 20, "subCategory": 1, "prices": [34324, 105400, 1540000, 4540000, 10716666]}, {"name": "Hesus Ring", "id": 12003, "currentStock": 82, "totalTrades": 817629, "basePrice": 34900, "mainCategory": 20, "subCategory": 1, "prices": [35871, 371769, 1499999, 4540000, 15700000]}, {"name": "Elisha Ring", "id": 12004, "currentStock": 168, "totalTrades": 717039, "basePrice": 30200, "mainCategory": 20, "subCategory": 1, "prices": [31626, 98937, 905000, 2490000, 4736250]}, {"name": "Kalis Ring", "id": 12005, "currentStock": 553, "totalTrades": 963245, "basePrice": 30200, "mainCategory": 20, "subCategory": 1, "prices": [34280, 86272, 620882, 4220000, 11200000]}, {"name": "Talis Ring", "id": 12006, "currentStock": 85, "totalTrades": 1277207, "basePrice": 30600, "mainCategory": 20, "subCategory": 1, "prices": [30095, 92061, 810000, 4200000, 11200000]}, {"name": "Mark of Shadow", "id": 12007, "currentStock": 110, "totalTrades": 1804975, "basePrice": 4210000, "mainCategory": 20, "subCategory": 1, "prices": [4709459, 29715517, 165450000, 568875000, 735000000]}, {"name": "Shrine Guardian Token", "id": 12008, "currentStock": 37, "totalTrades": 1096712, "basePrice": 3940000, "mainCategory": 20, "subCategory": 1, "prices": [3941012, 14300000, 52500000, 166000000, 297000000]}, {"name": "Ring of Good Deeds", "id": 12010, "currentStock": 263, "totalTrades": 817049, "basePrice": 243000, "mainCategory": 20, "subCategory": 1, "prices": [260742, 227547, 3614600, 24400000, 35900000]}, {"name": "Nert Ring", "id": 12011, "currentStock": 0, "totalTrades": 126874, "basePrice": 1650000, "mainCategory": 20, "subCategory": 1, "prices": [1769813, 5253651, 19397058, 53339958, 52600000]}, {"name": "Outlaw's Ring", "id": 12012, "currentStock": 0, "totalTrades": 344194, "basePrice": 4440000, "mainCategory": 20, "subCategory": 1, "prices": [4770000, 14300000, 52500000, 165877045, 270000000]}, {"name": "Blue Coral Ring", "id": 12017, "currentStock": 24, "totalTrades": 919450, "basePrice": 11100000, "mainCategory": 20, "subCategory": 1, "prices": [10990035, 40016428, 127750000, 216000000, 201000000]}, {"name": "Red Coral Ring", "id": 12018, "currentStock": 65, "totalTrades": 1363464, "basePrice": 6500000, "mainCategory": 20, "subCategory": 1, "prices": [7107759, 27633000, 101880952, 328105713, 379000000]}, {"name": "Ring of Crescent Guardian", "id": 12031, "currentStock": 57, "totalTrades": 3683776, "basePrice": 5200000, "mainCategory": 20, "subCategory": 1, "prices": [5282559, 23251433, 143705730, 408393749, 1958929770]}, {"name": "Ring of Cadry Guardian", "id": 12032, "currentStock": 52, "totalTrades": 1589367, "basePrice": 16500000, "mainCategory": 20, "subCategory": 1, "prices": [16869600, 56241310, 291366643, 722600000, 3552000000]}, {"name": "Forest Ronaros Ring", "id": 12042, "currentStock": 19, "totalTrades": 2021761, "basePrice": 3970000, "mainCategory": 20, "subCategory": 1, "prices": [3710083, 25937855, 104757352, 403857831, 1108333333]}, {"name": "Rainbow Coral Ring", "id": 12045, "currentStock": 117, "totalTrades": 287519, "basePrice": 7250000, "mainCategory": 20, "subCategory": 1, "prices": [6674824, 50590000, 189571428, 598000000, 650000000]}, {"name": "Kagtum Submission Ring", "id": 12059, "currentStock": 149, "totalTrades": 1567744, "basePrice": 3940000, "mainCategory": 20, "subCategory": 1, "prices": [4694479, 29391771, 131757976, 488886999, 497850000]}, {"name": "Eye of the Ruins Ring", "id": 12060, "currentStock": 48, "totalTrades": 2139551, "basePrice": 7350000, "mainCategory": 20, "subCategory": 1, "prices": [7352643, 21777507, 112834216, 412944870, 1985281818]}, {"name": "Tungrad Ring", "id": 12061, "currentStock": 52, "totalTrades": 1314998, "basePrice": 113000000, "mainCategory": 20, "subCategory": 1, "prices": [112140703, 262476705, 814571515, 2029100000, 7404045454]}, {"name": "Ominous Ring", "id": 12068, "currentStock": 31, "totalTrades": 474083, "basePrice": 65500000, "mainCategory": 20, "subCategory": 1, "prices": [59318493, 147530432, 439402604, 1456212500, 5416628787]}, {"name": "Ocean Haze Ring", "id": 12091, "currentStock": 49, "totalTrades": 36441, "basePrice": 43600000, "mainCategory": 20, "subCategory": 1, "prices": [40588382, 134860000, 421318181, 1062750000, 5210533333]}, {"name": "Deboreka Ring", "id": 12094, "currentStock": 109, "totalTrades": 100981, "basePrice": 735000000, "mainCategory": 20, "subCategory": 1, "prices": [663854727, 1853969127, 4845647037, 12505234487, 41877722277]}, {"name": "Loggia Ring", "id": 705503, "currentStock": 29, "totalTrades": 386889, "basePrice": 805000, "mainCategory": 20, "subCategory": 1, "prices": [844570, 3697666, 14571151, 95863897, 279364880]}, {"name": "Geranoa Ring", "id": 705507, "currentStock": 3, "totalTrades": 46410, "basePrice": 8200000, "mainCategory": 20, "subCategory": 1, "prices": [8615236, 25050000, 92969642, 567000000, 3490833333]}, {"name": "Yuria Necklace", "id": 11601, "currentStock": 24, "totalTrades": 354819, "basePrice": 105000, "mainCategory": 20, "subCategory": 2, "prices": [104878, 194029, 1065625, 8400000, 19200000]}, {"name": "Bares Necklace", "id": 11602, "currentStock": 541, "totalTrades": 2295292, "basePrice": 94500, "mainCategory": 20, "subCategory": 2, "prices": [79814, 148371, 2056181, 8207500, 17900000]}, {"name": "Hesus Necklace", "id": 11603, "currentStock": 682, "totalTrades": 775720, "basePrice": 83500, "mainCategory": 20, "subCategory": 2, "prices": [81604, 145804, 945000, 6000000, 9950000]}, {"name": "Elisha Necklace", "id": 11604, "currentStock": 26, "totalTrades": 380938, "basePrice": 191000, "mainCategory": 20, "subCategory": 2, "prices": [190914, 194950, 1290000, 6550000, 19056000]}, {"name": "Kalis Necklace", "id": 11605, "currentStock": 22, "totalTrades": 1132010, "basePrice": 59000, "mainCategory": 20, "subCategory": 2, "prices": [57511, 649625, 1876666, 7850000, 19200000]}, {"name": "Talis Necklace", "id": 11606, "currentStock": 4999, "totalTrades": 958848, "basePrice": 60000, "mainCategory": 20, "subCategory": 2, "prices": [63065, 144824, 1462500, 8010000, 19200000]}, {"name": "Ogre Ring", "id": 11607, "currentStock": 83, "totalTrades": 1791527, "basePrice": 36400000, "mainCategory": 20, "subCategory": 2, "prices": [35432170, 138530680, 411975952, 1145180583, 4249600000]}, {"name": "Necklace of Good Deeds", "id": 11609, "currentStock": 0, "totalTrades": 101855, "basePrice": 37600000, "mainCategory": 20, "subCategory": 2, "prices": [40400000, 37600000, 65000000, 377000000, 1110000000]}, {"name": "Scarla Necklace", "id": 11610, "currentStock": 6, "totalTrades": 670562, "basePrice": 5650000, "mainCategory": 20, "subCategory": 2, "prices": [6040225, 27195000, 57291666, 192676470, 180000000]}, {"name": "Bensho's Necklace", "id": 11611, "currentStock": 10, "totalTrades": 622756, "basePrice": 16700000, "mainCategory": 20, "subCategory": 2, "prices": [16640250, 38012500, 124000000, 400000000, 705000000]}, {"name": "Ancient Guardian's Seal", "id": 11613, "currentStock": 109, "totalTrades": 1197777, "basePrice": 4530000, "mainCategory": 20, "subCategory": 2, "prices": [4673020, 23924486, 166631250, 594091666, 576666666]}, {"name": "Sicil's Necklace", "id": 11625, "currentStock": 75, "totalTrades": 1592292, "basePrice": 5850000, "mainCategory": 20, "subCategory": 2, "prices": [5456930, 23534055, 123770135, 407104242, 1239614285]}, {"name": "Serap's Necklace", "id": 11628, "currentStock": 50, "totalTrades": 2158725, "basePrice": 4910000, "mainCategory": 20, "subCategory": 2, "prices": [4702809, 32515108, 123533418, 402749242, 674666666]}, {"name": "Tungrad Necklace", "id": 11629, "currentStock": 210, "totalTrades": 1578944, "basePrice": 30600000, "mainCategory": 20, "subCategory": 2, "prices": [36280960, 143951250, 412776490, 1122812842, 4540746852]}, {"name": "Laytenn's Power Stone", "id": 11630, "currentStock": 59, "totalTrades": 1880116, "basePrice": 33100000, "mainCategory": 20, "subCategory": 2, "prices": [33855355, 137988333, 397093572, 1159677813, 4211000000]}, {"name": "Necklace of Shultz the Gladiator", "id": 11631, "currentStock": 8, "totalTrades": 343558, "basePrice": 8100000, "mainCategory": 20, "subCategory": 2, "prices": [8772747, 40300000, 184000000, 446000000, 415000000]}, {"name": "Deboreka Necklace", "id": 11653, "currentStock": 2, "totalTrades": 74243, "basePrice": 770000000, "mainCategory": 20, "subCategory": 2, "prices": [768955694, 1845709807, 4950075490, 13120321345, 43388098900]}, {"name": "Revived River Necklace", "id": 11662, "currentStock": 30, "totalTrades": 142782, "basePrice": 136000000, "mainCategory": 20, "subCategory": 2, "prices": [145846373, 549600000, 1118300000, 3447542856, 11657000000]}, {"name": "Revived Lunar Necklace", "id": 11663, "currentStock": 8, "totalTrades": 325273, "basePrice": 44800000, "mainCategory": 20, "subCategory": 2, "prices": [38097148, 138341341, 432328571, 1134700000, 3080000000]}, {"name": "Asadal Necklace", "id": 11688, "currentStock": 60, "totalTrades": 6000, "basePrice": 104000000, "mainCategory": 20, "subCategory": 2, "prices": [135943030, 417406666, 1292582051, 3509960605, 11696000000]}, {"name": "Loggia Necklace", "id": 705501, "currentStock": 18, "totalTrades": 203521, "basePrice": 765000, "mainCategory": 20, "subCategory": 2, "prices": [760985, 3650285, 14024658, 71139729, 238375324]}, {"name": "Geranoa Necklace", "id": 705505, "currentStock": 12, "totalTrades": 25653, "basePrice": 8200000, "mainCategory": 20, "subCategory": 2, "prices": [8464219, 25275000, 95386363, 416642857, 3082750000]}, {"name": "Yuria Earring", "id": 11801, "currentStock": 69, "totalTrades": 607968, "basePrice": 65500, "mainCategory": 20, "subCategory": 3, "prices": [68502, 129333, 625000, 4880000, 11200000]}, {"name": "Bares Earring", "id": 11802, "currentStock": 2, "totalTrades": 1815287, "basePrice": 48100, "mainCategory": 20, "subCategory": 3, "prices": [43302, 134571, 1518500, 4676000, 10961785]}, {"name": "Hesus Earring", "id": 11803, "currentStock": 37, "totalTrades": 461131, "basePrice": 30300, "mainCategory": 20, "subCategory": 3, "prices": [30696, 246200, 1540000, 4845500, 15700000]}, {"name": "Elisha Earring", "id": 11804, "currentStock": 31, "totalTrades": 517099, "basePrice": 30200, "mainCategory": 20, "subCategory": 3, "prices": [30127, 118500, 725000, 2760000, 5636363]}, {"name": "Kalis Earring", "id": 11805, "currentStock": 38, "totalTrades": 368494, "basePrice": 30200, "mainCategory": 20, "subCategory": 3, "prices": [29086, 112888, 745000, 4810769, 11188571]}, {"name": "Talis Earring", "id": 11806, "currentStock": 53, "totalTrades": 609517, "basePrice": 30200, "mainCategory": 20, "subCategory": 3, "prices": [28542, 112650, 881000, 4880000, 10500000]}, {"name": "Token of Friendship", "id": 11807, "currentStock": 2, "totalTrades": 70088, "basePrice": 12700000, "mainCategory": 20, "subCategory": 3, "prices": [13152827, 15600000, 69200000, 241692307, 775000000]}, {"name": "Witch's Earring", "id": 11808, "currentStock": 129, "totalTrades": 2347531, "basePrice": 3480000, "mainCategory": 20, "subCategory": 3, "prices": [3909189, 21526589, 145297272, 495202380, 820000000]}, {"name": "Mesto Earring", "id": 11810, "currentStock": 31, "totalTrades": 283031, "basePrice": 4570000, "mainCategory": 20, "subCategory": 3, "prices": [5026132, 14150000, 70850000, 208000000, 194000000]}, {"name": "Ridell Earring", "id": 11811, "currentStock": 0, "totalTrades": 610282, "basePrice": 2540000, "mainCategory": 20, "subCategory": 3, "prices": [2715419, 8200000, 30000000, 94964796, 101000000]}, {"name": "Blue Whale Molar Earring", "id": 11815, "currentStock": 211, "totalTrades": 152437, "basePrice": 24600000, "mainCategory": 20, "subCategory": 3, "prices": [24900322, 102939999, 238045454, 649400000, 1446000000]}, {"name": "Blue Coral Earring", "id": 11816, "currentStock": 108, "totalTrades": 882110, "basePrice": 5700000, "mainCategory": 20, "subCategory": 3, "prices": [6044003, 31079413, 141950000, 432025714, 635000000]}, {"name": "Red Coral Earring", "id": 11817, "currentStock": 54, "totalTrades": 924429, "basePrice": 6200000, "mainCategory": 20, "subCategory": 3, "prices": [6276997, 26612727, 146533333, 495908333, 1141733332]}, {"name": "Fugitive Khalk's Earring", "id": 11827, "currentStock": 0, "totalTrades": 49162, "basePrice": 115000000, "mainCategory": 20, "subCategory": 3, "prices": [123000000, 131000000, 237000000, 1106666666, 2905000000]}, {"name": "Tungrad Earring", "id": 11828, "currentStock": 67, "totalTrades": 2045219, "basePrice": 45900000, "mainCategory": 20, "subCategory": 3, "prices": [42065911, 159641666, 441725599, 1149571328, 3667624242]}, {"name": "Narc Ear Accessory", "id": 11834, "currentStock": 25, "totalTrades": 2007937, "basePrice": 8300000, "mainCategory": 20, "subCategory": 3, "prices": [7390701, 22527522, 138125389, 485909698, 2242690909]}, {"name": "Black Distortion Earring", "id": 11853, "currentStock": 86, "totalTrades": 1634827, "basePrice": 270000000, "mainCategory": 20, "subCategory": 3, "prices": [296560981, 633473809, 2010904761, 4211709956, 13515524475]}, {"name": "Dawn Earring", "id": 11855, "currentStock": 38, "totalTrades": 290925, "basePrice": 175000000, "mainCategory": 20, "subCategory": 3, "prices": [219123414, 390659956, 1120400000, 3222503496, 11340000000]}, {"name": "Ethereal Earring", "id": 11856, "currentStock": 64, "totalTrades": 151832, "basePrice": 46200000, "mainCategory": 20, "subCategory": 3, "prices": [47244645, 199404615, 472400000, 1398109090, 5536363636]}, {"name": "Vaha's Dawn", "id": 11875, "currentStock": 91, "totalTrades": 180906, "basePrice": 307000000, "mainCategory": 20, "subCategory": 3, "prices": [311791472, 415258311, 1169519871, 4251533333, 12861000000]}, {"name": "Deboreka Earring", "id": 11882, "currentStock": 55, "totalTrades": 74950, "basePrice": 770000000, "mainCategory": 20, "subCategory": 3, "prices": [520908147, 1172822727, 3311476847, 9369365138, 34991707792]}, {"name": "Loggia Earring", "id": 705502, "currentStock": 21, "totalTrades": 375342, "basePrice": 805000, "mainCategory": 20, "subCategory": 3, "prices": [840682, 3699375, 14214000, 111331250, 338231428]}, {"name": "Geranoa Earring", "id": 705506, "currentStock": 10, "totalTrades": 39050, "basePrice": 8200000, "mainCategory": 20, "subCategory": 3, "prices": [8746428, 25229817, 93925713, 511680000, 3752941176]}, {"name": "Yuria Belt", "id": 12201, "currentStock": 62, "totalTrades": 406818, "basePrice": 73000, "mainCategory": 20, "subCategory": 4, "prices": [72849, 144360, 665000, 6300000, 13784000]}, {"name": "Bares Belt", "id": 12202, "currentStock": 1545, "totalTrades": 1242703, "basePrice": 38900, "mainCategory": 20, "subCategory": 4, "prices": [38291, 109736, 1704736, 6300000, 14000000]}, {"name": "Hesus Belt", "id": 12203, "currentStock": 67, "totalTrades": 289239, "basePrice": 38900, "mainCategory": 20, "subCategory": 4, "prices": [38334, 133000, 645000, 6300000, 7050000]}, {"name": "Elisha Belt", "id": 12204, "currentStock": 11, "totalTrades": 391565, "basePrice": 49100, "mainCategory": 20, "subCategory": 4, "prices": [48675, 129000, 605000, 3590000, 5500000]}, {"name": "Kalis Belt", "id": 12205, "currentStock": 2193, "totalTrades": 691957, "basePrice": 48700, "mainCategory": 20, "subCategory": 4, "prices": [47778, 108815, 610000, 5800000, 10145454]}, {"name": "Talis Belt", "id": 12206, "currentStock": 1299, "totalTrades": 642470, "basePrice": 47800, "mainCategory": 20, "subCategory": 4, "prices": [49303, 108731, 749000, 5900000, 7600000]}, {"name": "Rhutum Elite Belt", "id": 12208, "currentStock": 0, "totalTrades": 269463, "basePrice": 2290000, "mainCategory": 20, "subCategory": 4, "prices": [2432092, 7350000, 27000000, 86000000, 196000000]}, {"name": "Tree Spirit Belt", "id": 12210, "currentStock": 82, "totalTrades": 697058, "basePrice": 5250000, "mainCategory": 20, "subCategory": 4, "prices": [5535142, 28393140, 184446600, 499240000, 855000000]}, {"name": "Belt of Shultz the Gladiator", "id": 12211, "currentStock": 51, "totalTrades": 881154, "basePrice": 4910000, "mainCategory": 20, "subCategory": 4, "prices": [5196462, 47456666, 180425000, 462625000, 434000000]}, {"name": "Gartner Belt", "id": 12212, "currentStock": 0, "totalTrades": 70456, "basePrice": 1900000, "mainCategory": 20, "subCategory": 4, "prices": [2030514, 6150000, 22408196, 71500000, 163000000]}, {"name": "Ancient Weapon Core", "id": 12220, "currentStock": 103, "totalTrades": 1242830, "basePrice": 4310000, "mainCategory": 20, "subCategory": 4, "prices": [4816880, 28220363, 177200000, 553335714, 735000000]}, {"name": "Centaurus Belt", "id": 12229, "currentStock": 18, "totalTrades": 1873633, "basePrice": 7350000, "mainCategory": 20, "subCategory": 4, "prices": [6916439, 21445043, 115054090, 429514646, 1973515151]}, {"name": "Basilisk's Belt", "id": 12230, "currentStock": 105, "totalTrades": 1942971, "basePrice": 7350000, "mainCategory": 20, "subCategory": 4, "prices": [6955040, 20819655, 94220402, 438898461, 1971500000]}, {"name": "Valtarra Eclipsed Belt", "id": 12236, "currentStock": 156, "totalTrades": 2037215, "basePrice": 9350000, "mainCategory": 20, "subCategory": 4, "prices": [9524921, 25971694, 104977380, 490281212, 2222918181]}, {"name": "Tungrad Belt", "id": 12237, "currentStock": 83, "totalTrades": 1360158, "basePrice": 32100000, "mainCategory": 20, "subCategory": 4, "prices": [35636403, 139732900, 416209113, 1150132300, 4386193589]}, {"name": "Orkinrad's Belt", "id": 12251, "currentStock": 477, "totalTrades": 1569737, "basePrice": 9350000, "mainCategory": 20, "subCategory": 4, "prices": [8650000, 26173096, 84395185, 339009999, 1338646464]}, {"name": "Turo's Belt", "id": 12257, "currentStock": 1, "totalTrades": 255514, "basePrice": 51500000, "mainCategory": 20, "subCategory": 4, "prices": [43736536, 143772077, 450649590, 967216666, 3982000000]}, {"name": "Deboreka Belt", "id": 12276, "currentStock": 0, "totalTrades": 47159, "basePrice": 770000000, "mainCategory": 20, "subCategory": 4, "prices": [797874598, 1919371264, 5407986402, 12812848484, 45295696969]}, {"name": "Taebaek's Belt", "id": 12282, "currentStock": 53, "totalTrades": 17105, "basePrice": 172000000, "mainCategory": 20, "subCategory": 4, "prices": [182089869, 562500000, 1661999999, 4149499999, 11063333333]}, {"name": "Asadal Belt", "id": 12285, "currentStock": 37, "totalTrades": 5614, "basePrice": 79500000, "mainCategory": 20, "subCategory": 4, "prices": [91270452, 381108571, 1156990908, 2905763636, 11454204545]}, {"name": "Loggia Belt", "id": 705504, "currentStock": 13, "totalTrades": 194973, "basePrice": 760000, "mainCategory": 20, "subCategory": 4, "prices": [842756, 3596000, 14777575, 68934090, 332431666]}, {"name": "Geranoa Belt", "id": 705508, "currentStock": 21, "totalTrades": 27705, "basePrice": 8200000, "mainCategory": 20, "subCategory": 4, "prices": [8730294, 26083333, 95239130, 550600000, 3210000000]}]
+[
+    {
+        "name": "Yuria Ring",
+        "id": 12001,
+        "currentStock": 133,
+        "totalTrades": 536279,
+        "basePrice": 31100,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            33005,
+            111923,
+            520000,
+            4880000,
+            11200000,
+            22236363
+        ]
+    },
+    {
+        "name": "Bares Ring",
+        "id": 12002,
+        "currentStock": 2,
+        "totalTrades": 1614439,
+        "basePrice": 34700,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            30416,
+            108656,
+            1540000,
+            4642000,
+            10716666,
+            22400000
+        ]
+    },
+    {
+        "name": "Hesus Ring",
+        "id": 12003,
+        "currentStock": 27,
+        "totalTrades": 817700,
+        "basePrice": 32200,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            32851,
+            371769,
+            1506666,
+            4200000,
+            15700000,
+            31400000
+        ]
+    },
+    {
+        "name": "Elisha Ring",
+        "id": 12004,
+        "currentStock": 0,
+        "totalTrades": 717592,
+        "basePrice": 44400,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            40596,
+            99125,
+            905000,
+            2490000,
+            4724946,
+            21975000
+        ]
+    },
+    {
+        "name": "Kalis Ring",
+        "id": 12005,
+        "currentStock": 649,
+        "totalTrades": 963275,
+        "basePrice": 30600,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            31480,
+            86046,
+            620882,
+            4214000,
+            11200000,
+            22400000
+        ]
+    },
+    {
+        "name": "Talis Ring",
+        "id": 12006,
+        "currentStock": 133,
+        "totalTrades": 1277256,
+        "basePrice": 30400,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            30157,
+            90980,
+            864318,
+            4200000,
+            11200000,
+            22400000
+        ]
+    },
+    {
+        "name": "Mark of Shadow",
+        "id": 12007,
+        "currentStock": 107,
+        "totalTrades": 1806128,
+        "basePrice": 3430000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            3703190,
+            30673071,
+            149350000,
+            470418181,
+            762500000,
+            2496000000
+        ]
+    },
+    {
+        "name": "Shrine Guardian Token",
+        "id": 12008,
+        "currentStock": 61,
+        "totalTrades": 1097996,
+        "basePrice": 3590000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            4093492,
+            14300000,
+            52427727,
+            166000000,
+            297000000,
+            626000000
+        ]
+    },
+    {
+        "name": "Ring of Good Deeds",
+        "id": 12010,
+        "currentStock": 252,
+        "totalTrades": 817183,
+        "basePrice": 243000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            255310,
+            226345,
+            3689800,
+            24400000,
+            35900000,
+            120000000
+        ]
+    },
+    {
+        "name": "Nert Ring",
+        "id": 12011,
+        "currentStock": 0,
+        "totalTrades": 126909,
+        "basePrice": 1650000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            1769873,
+            5300000,
+            19437021,
+            53530397,
+            53667500,
+            92333333
+        ]
+    },
+    {
+        "name": "Outlaw's Ring",
+        "id": 12012,
+        "currentStock": 0,
+        "totalTrades": 344284,
+        "basePrice": 4440000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            4770000,
+            13400000,
+            52500000,
+            165876712,
+            270000000,
+            715000000
+        ]
+    },
+    {
+        "name": "Blue Coral Ring",
+        "id": 12017,
+        "currentStock": 129,
+        "totalTrades": 919584,
+        "basePrice": 12300000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            11889992,
+            40287337,
+            127750000,
+            216000000,
+            201000000,
+            635000000
+        ]
+    },
+    {
+        "name": "Red Coral Ring",
+        "id": 12018,
+        "currentStock": 40,
+        "totalTrades": 1363691,
+        "basePrice": 5800000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            6193194,
+            27585000,
+            102077856,
+            321100000,
+            379000000,
+            1200000000
+        ]
+    },
+    {
+        "name": "Ring of Crescent Guardian",
+        "id": 12031,
+        "currentStock": 68,
+        "totalTrades": 3688557,
+        "basePrice": 4970000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            5677801,
+            24024200,
+            135007563,
+            466418419,
+            2091497902,
+            13748000000
+        ]
+    },
+    {
+        "name": "Ring of Cadry Guardian",
+        "id": 12032,
+        "currentStock": 82,
+        "totalTrades": 1592577,
+        "basePrice": 13600000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            15088027,
+            52165823,
+            255835086,
+            693259889,
+            3287690908,
+            24600000000
+        ]
+    },
+    {
+        "name": "Forest Ronaros Ring",
+        "id": 12042,
+        "currentStock": 85,
+        "totalTrades": 2025844,
+        "basePrice": 3990000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            4099138,
+            25301571,
+            108842727,
+            391517692,
+            1055400000,
+            3942000000
+        ]
+    },
+    {
+        "name": "Rainbow Coral Ring",
+        "id": 12045,
+        "currentStock": 91,
+        "totalTrades": 287980,
+        "basePrice": 6250000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            7758607,
+            45185000,
+            159900000,
+            558700000,
+            650000000,
+            2160000000
+        ]
+    },
+    {
+        "name": "Kagtum Submission Ring",
+        "id": 12059,
+        "currentStock": 129,
+        "totalTrades": 1572406,
+        "basePrice": 3760000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            4075037,
+            29068488,
+            116203043,
+            448481687,
+            471725000,
+            2580588235
+        ]
+    },
+    {
+        "name": "Eye of the Ruins Ring",
+        "id": 12060,
+        "currentStock": 83,
+        "totalTrades": 2144772,
+        "basePrice": 7600000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            7398658,
+            24763372,
+            127381427,
+            487948437,
+            2042859739,
+            13144000000
+        ]
+    },
+    {
+        "name": "Tungrad Ring",
+        "id": 12061,
+        "currentStock": 72,
+        "totalTrades": 1316389,
+        "basePrice": 91000000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            106720497,
+            279533863,
+            802736842,
+            2224166666,
+            7119447552,
+            28677285714
+        ]
+    },
+    {
+        "name": "Ominous Ring",
+        "id": 12068,
+        "currentStock": 167,
+        "totalTrades": 475175,
+        "basePrice": 54500000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            56028284,
+            177468947,
+            524721687,
+            1561466666,
+            5345454545,
+            37500000000
+        ]
+    },
+    {
+        "name": "Ocean Haze Ring",
+        "id": 12091,
+        "currentStock": 151,
+        "totalTrades": 36897,
+        "basePrice": 62500000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            57380646,
+            122720000,
+            419818181,
+            1085500000,
+            5208000000,
+            34950000000
+        ]
+    },
+    {
+        "name": "Deboreka Ring",
+        "id": 12094,
+        "currentStock": 125,
+        "totalTrades": 115823,
+        "basePrice": 600000000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            710799780,
+            1862637770,
+            4974814947,
+            13151350355,
+            43652208810,
+            265116666666
+        ]
+    },
+    {
+        "name": "Ruby Ring",
+        "id": 12101,
+        "currentStock": 14,
+        "totalTrades": 16367,
+        "basePrice": 7900,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            7862
+        ]
+    },
+    {
+        "name": "Resplendent Ruby Ring",
+        "id": 12102,
+        "currentStock": 0,
+        "totalTrades": 4112,
+        "basePrice": 47400,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            47433
+        ]
+    },
+    {
+        "name": "Blood Ruby Ring",
+        "id": 12103,
+        "currentStock": 0,
+        "totalTrades": 4027,
+        "basePrice": 107000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 1,
+        "maxEnhance": 0,
+        "prices": [
+            115000
+        ]
+    },
+    {
+        "name": "Dark Blood Ruby Ring",
+        "id": 12104,
+        "currentStock": 100,
+        "totalTrades": 10726,
+        "basePrice": 320000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 2,
+        "maxEnhance": 0,
+        "prices": [
+            320000
+        ]
+    },
+    {
+        "name": "Corrupt Ruby Ring",
+        "id": 12105,
+        "currentStock": 0,
+        "totalTrades": 11058,
+        "basePrice": 2630000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 3,
+        "maxEnhance": 0,
+        "prices": [
+            2558000
+        ]
+    },
+    {
+        "name": "Topaz Ring",
+        "id": 12111,
+        "currentStock": 31,
+        "totalTrades": 2123,
+        "basePrice": 10100,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            10799
+        ]
+    },
+    {
+        "name": "Resplendent Topaz Ring",
+        "id": 12112,
+        "currentStock": 0,
+        "totalTrades": 1004,
+        "basePrice": 50500,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            54000
+        ]
+    },
+    {
+        "name": "Gold Topaz Ring",
+        "id": 12113,
+        "currentStock": 0,
+        "totalTrades": 853,
+        "basePrice": 107000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 1,
+        "maxEnhance": 0,
+        "prices": [
+            115000
+        ]
+    },
+    {
+        "name": "Shining Gold Topaz Ring",
+        "id": 12114,
+        "currentStock": 0,
+        "totalTrades": 885,
+        "basePrice": 349000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 2,
+        "maxEnhance": 0,
+        "prices": [
+            371000
+        ]
+    },
+    {
+        "name": "Topaz Ring of Regeneration",
+        "id": 12115,
+        "currentStock": 0,
+        "totalTrades": 5350,
+        "basePrice": 2630000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 3,
+        "maxEnhance": 0,
+        "prices": [
+            2817625
+        ]
+    },
+    {
+        "name": "Manos Ruby Ring",
+        "id": 12126,
+        "currentStock": 0,
+        "totalTrades": 12589,
+        "basePrice": 18200000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            19500000,
+            55700000,
+            203600000,
+            685000000,
+            2350000000,
+            4690000000
+        ]
+    },
+    {
+        "name": "Manos Topaz Ring",
+        "id": 12128,
+        "currentStock": 0,
+        "totalTrades": 3244,
+        "basePrice": 18200000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            19434565,
+            57750000,
+            215000000,
+            685000000,
+            2350000000,
+            4690000000
+        ]
+    },
+    {
+        "name": "Loggia Ring",
+        "id": 705503,
+        "currentStock": 30,
+        "totalTrades": 387074,
+        "basePrice": 820000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            835747,
+            3200000,
+            14506225,
+            99783345,
+            294234074,
+            1282666666
+        ]
+    },
+    {
+        "name": "Geranoa Ring",
+        "id": 705507,
+        "currentStock": 12,
+        "totalTrades": 46477,
+        "basePrice": 8200000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            8577039,
+            25050000,
+            95722222,
+            581500000,
+            3427833333,
+            10300000000
+        ]
+    },
+    {
+        "name": "Manos Ring",
+        "id": 705511,
+        "currentStock": 69,
+        "totalTrades": 353027,
+        "basePrice": 141000000,
+        "mainCategory": 20,
+        "subCategory": 1,
+        "grade": 4,
+        "maxEnhance": 5,
+        "prices": [
+            142099442,
+            353574102,
+            1243250324,
+            4109792424,
+            21293727272,
+            150000000000
+        ]
+    },
+    {
+        "name": "Yuria Necklace",
+        "id": 11601,
+        "currentStock": 45,
+        "totalTrades": 354820,
+        "basePrice": 109000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            108175,
+            194029,
+            1065625,
+            8400000,
+            19200000,
+            38400000
+        ]
+    },
+    {
+        "name": "Bares Necklace",
+        "id": 11602,
+        "currentStock": 506,
+        "totalTrades": 2295407,
+        "basePrice": 112000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            102323,
+            147605,
+            2075000,
+            8345000,
+            17900000,
+            37818351
+        ]
+    },
+    {
+        "name": "Hesus Necklace",
+        "id": 11603,
+        "currentStock": 705,
+        "totalTrades": 775735,
+        "basePrice": 73000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            77000,
+            145796,
+            945000,
+            6000000,
+            9950000,
+            38400000
+        ]
+    },
+    {
+        "name": "Elisha Necklace",
+        "id": 11604,
+        "currentStock": 42,
+        "totalTrades": 380938,
+        "basePrice": 197000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            195751,
+            197250,
+            1290000,
+            6550000,
+            19050000,
+            38400000
+        ]
+    },
+    {
+        "name": "Kalis Necklace",
+        "id": 11605,
+        "currentStock": 46,
+        "totalTrades": 1132040,
+        "basePrice": 54000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            54755,
+            620000,
+            1880000,
+            8015000,
+            19200000,
+            38400000
+        ]
+    },
+    {
+        "name": "Talis Necklace",
+        "id": 11606,
+        "currentStock": 5002,
+        "totalTrades": 958871,
+        "basePrice": 51500,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            56882,
+            144658,
+            1462500,
+            7850000,
+            19200000,
+            38114285
+        ]
+    },
+    {
+        "name": "Ogre Ring",
+        "id": 11607,
+        "currentStock": 73,
+        "totalTrades": 1795188,
+        "basePrice": 34500000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            33980344,
+            143028419,
+            409878378,
+            1161127272,
+            4153684848,
+            26079000000
+        ]
+    },
+    {
+        "name": "Necklace of Good Deeds",
+        "id": 11609,
+        "currentStock": 0,
+        "totalTrades": 101857,
+        "basePrice": 37600000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            40400000,
+            37600000,
+            65000000,
+            377000000,
+            1110000000,
+            4980000000
+        ]
+    },
+    {
+        "name": "Scarla Necklace",
+        "id": 11610,
+        "currentStock": 65,
+        "totalTrades": 670641,
+        "basePrice": 4660000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            5103949,
+            27195000,
+            57291666,
+            192599999,
+            180000000,
+            860000000
+        ]
+    },
+    {
+        "name": "Bensho's Necklace",
+        "id": 11611,
+        "currentStock": 28,
+        "totalTrades": 622772,
+        "basePrice": 14600000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            16032526,
+            38012500,
+            124000000,
+            400000000,
+            705000000,
+            3772571428
+        ]
+    },
+    {
+        "name": "Ancient Guardian's Seal",
+        "id": 11613,
+        "currentStock": 103,
+        "totalTrades": 1198602,
+        "basePrice": 3990000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            3974878,
+            21363412,
+            154776470,
+            545133333,
+            576666666,
+            1820000000
+        ]
+    },
+    {
+        "name": "Sicil's Necklace",
+        "id": 11625,
+        "currentStock": 255,
+        "totalTrades": 1597847,
+        "basePrice": 5850000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            5525680,
+            26020202,
+            116213333,
+            457191608,
+            1313485714,
+            5868322268
+        ]
+    },
+    {
+        "name": "Serap's Necklace",
+        "id": 11628,
+        "currentStock": 22,
+        "totalTrades": 2162350,
+        "basePrice": 4910000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            4713185,
+            31238837,
+            121150389,
+            411242587,
+            656800000,
+            3074000000
+        ]
+    },
+    {
+        "name": "Tungrad Necklace",
+        "id": 11629,
+        "currentStock": 178,
+        "totalTrades": 1587778,
+        "basePrice": 33600000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            35131287,
+            157040326,
+            423473308,
+            1179408333,
+            4217296153,
+            26735976190
+        ]
+    },
+    {
+        "name": "Laytenn's Power Stone",
+        "id": 11630,
+        "currentStock": 91,
+        "totalTrades": 1883994,
+        "basePrice": 29800000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            32090928,
+            143389880,
+            412423425,
+            1175513636,
+            4259733333,
+            25627000000
+        ]
+    },
+    {
+        "name": "Necklace of Shultz the Gladiator",
+        "id": 11631,
+        "currentStock": 23,
+        "totalTrades": 343595,
+        "basePrice": 9050000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            8567223,
+            40300000,
+            178800000,
+            446000000,
+            415000000,
+            1043000000
+        ]
+    },
+    {
+        "name": "Deboreka Necklace",
+        "id": 11653,
+        "currentStock": 178,
+        "totalTrades": 79490,
+        "basePrice": 745000000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            751299066,
+            1917805194,
+            5576099689,
+            13666666666,
+            43913380952,
+            196086666666
+        ]
+    },
+    {
+        "name": "Revived River Necklace",
+        "id": 11662,
+        "currentStock": 56,
+        "totalTrades": 143078,
+        "basePrice": 140000000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            139556361,
+            492140000,
+            1127150000,
+            3552000000,
+            11780000000,
+            60000000000
+        ]
+    },
+    {
+        "name": "Revived Lunar Necklace",
+        "id": 11663,
+        "currentStock": 54,
+        "totalTrades": 325749,
+        "basePrice": 43200000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            45198439,
+            159888974,
+            502393515,
+            1203000000,
+            3170000000,
+            23702238858
+        ]
+    },
+    {
+        "name": "Asadal Necklace",
+        "id": 11688,
+        "currentStock": 70,
+        "totalTrades": 8224,
+        "basePrice": 70000000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            72577804,
+            392830909,
+            1149918181,
+            3239333333,
+            9300000000,
+            48720000000
+        ]
+    },
+    {
+        "name": "Ruby Necklace",
+        "id": 11701,
+        "currentStock": 45,
+        "totalTrades": 7245,
+        "basePrice": 31400,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            33046
+        ]
+    },
+    {
+        "name": "Resplendent Ruby Necklace",
+        "id": 11702,
+        "currentStock": 6,
+        "totalTrades": 2261,
+        "basePrice": 84500,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            84500
+        ]
+    },
+    {
+        "name": "Blood Ruby Necklace",
+        "id": 11703,
+        "currentStock": 0,
+        "totalTrades": 3959,
+        "basePrice": 187000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 1,
+        "maxEnhance": 0,
+        "prices": [
+            187214
+        ]
+    },
+    {
+        "name": "Dark Blood Ruby Necklace",
+        "id": 11704,
+        "currentStock": 9,
+        "totalTrades": 9116,
+        "basePrice": 1330000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 2,
+        "maxEnhance": 0,
+        "prices": [
+            1329696
+        ]
+    },
+    {
+        "name": "Corrupt Ruby Necklace",
+        "id": 11705,
+        "currentStock": 11,
+        "totalTrades": 31192,
+        "basePrice": 4980000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 0,
+        "prices": [
+            5029250
+        ]
+    },
+    {
+        "name": "Sapphire Necklace",
+        "id": 11706,
+        "currentStock": 20,
+        "totalTrades": 876,
+        "basePrice": 37200,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            37200
+        ]
+    },
+    {
+        "name": "Resplendent Sapphire Necklace",
+        "id": 11707,
+        "currentStock": 21,
+        "totalTrades": 447,
+        "basePrice": 87000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            87000
+        ]
+    },
+    {
+        "name": "Ocean Sapphire Necklace",
+        "id": 11708,
+        "currentStock": 8,
+        "totalTrades": 529,
+        "basePrice": 187000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 1,
+        "maxEnhance": 0,
+        "prices": [
+            198363
+        ]
+    },
+    {
+        "name": "Translucent Ocean Sapphire Necklace",
+        "id": 11709,
+        "currentStock": 145,
+        "totalTrades": 1628,
+        "basePrice": 1070000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 2,
+        "maxEnhance": 0,
+        "prices": [
+            1069663
+        ]
+    },
+    {
+        "name": "Sapphire Necklace of Storms",
+        "id": 11710,
+        "currentStock": 1,
+        "totalTrades": 4217,
+        "basePrice": 4980000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 0,
+        "prices": [
+            5350000
+        ]
+    },
+    {
+        "name": "Topaz Necklace",
+        "id": 11711,
+        "currentStock": 2,
+        "totalTrades": 1299,
+        "basePrice": 39500,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            39550
+        ]
+    },
+    {
+        "name": "Resplendent Topaz Necklace",
+        "id": 11712,
+        "currentStock": 0,
+        "totalTrades": 478,
+        "basePrice": 80500,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            80500
+        ]
+    },
+    {
+        "name": "Gold Topaz Necklace",
+        "id": 11713,
+        "currentStock": 46,
+        "totalTrades": 1191,
+        "basePrice": 187000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 1,
+        "maxEnhance": 0,
+        "prices": [
+            189000
+        ]
+    },
+    {
+        "name": "Shining Gold Topaz Necklace",
+        "id": 11714,
+        "currentStock": 9,
+        "totalTrades": 2041,
+        "basePrice": 1370000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 2,
+        "maxEnhance": 0,
+        "prices": [
+            1372500
+        ]
+    },
+    {
+        "name": "Topaz Necklace of Regeneration",
+        "id": 11715,
+        "currentStock": 17,
+        "totalTrades": 23298,
+        "basePrice": 4610000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 0,
+        "prices": [
+            4610000
+        ]
+    },
+    {
+        "name": "Emerald Necklace",
+        "id": 11716,
+        "currentStock": 0,
+        "totalTrades": 728,
+        "basePrice": 40200,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            40200
+        ]
+    },
+    {
+        "name": "Resplendent Emerald Necklace",
+        "id": 11717,
+        "currentStock": 0,
+        "totalTrades": 631,
+        "basePrice": 87000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            87000
+        ]
+    },
+    {
+        "name": "Forest Emerald Necklace",
+        "id": 11718,
+        "currentStock": 17,
+        "totalTrades": 1502,
+        "basePrice": 187000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 1,
+        "maxEnhance": 0,
+        "prices": [
+            190571
+        ]
+    },
+    {
+        "name": "Placid Forest Emerald Necklace",
+        "id": 11719,
+        "currentStock": 0,
+        "totalTrades": 1231,
+        "basePrice": 1370000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 2,
+        "maxEnhance": 0,
+        "prices": [
+            1370000
+        ]
+    },
+    {
+        "name": "Emerald Necklace of Tranquility",
+        "id": 11720,
+        "currentStock": 3,
+        "totalTrades": 9777,
+        "basePrice": 3550000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 0,
+        "prices": [
+            3699142
+        ]
+    },
+    {
+        "name": "Diamond Necklace",
+        "id": 11721,
+        "currentStock": 0,
+        "totalTrades": 1132,
+        "basePrice": 38900,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            38914
+        ]
+    },
+    {
+        "name": "Resplendent Diamond Necklace",
+        "id": 11722,
+        "currentStock": 1,
+        "totalTrades": 588,
+        "basePrice": 87000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            89421
+        ]
+    },
+    {
+        "name": "Star Diamond Necklace",
+        "id": 11723,
+        "currentStock": 0,
+        "totalTrades": 863,
+        "basePrice": 187000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 1,
+        "maxEnhance": 0,
+        "prices": [
+            201000
+        ]
+    },
+    {
+        "name": "Starry Night Diamond Necklace",
+        "id": 11724,
+        "currentStock": 18,
+        "totalTrades": 3508,
+        "basePrice": 1370000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 2,
+        "maxEnhance": 0,
+        "prices": [
+            1440000
+        ]
+    },
+    {
+        "name": "Diamond Necklace of Fortitude",
+        "id": 11725,
+        "currentStock": 0,
+        "totalTrades": 14777,
+        "basePrice": 4980000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 0,
+        "prices": [
+            5350000
+        ]
+    },
+    {
+        "name": "Manos Ruby Necklace",
+        "id": 11726,
+        "currentStock": 16,
+        "totalTrades": 73688,
+        "basePrice": 22200000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            21828026,
+            68625000,
+            164000000,
+            680000000,
+            2650000000,
+            5600000000
+        ]
+    },
+    {
+        "name": "Manos Sapphire Necklace",
+        "id": 11727,
+        "currentStock": 27,
+        "totalTrades": 1796,
+        "basePrice": 23300000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            25000000,
+            62000000,
+            233000000,
+            815000000,
+            2990000000,
+            5400000000
+        ]
+    },
+    {
+        "name": "Manos Topaz Necklace",
+        "id": 11728,
+        "currentStock": 8,
+        "totalTrades": 2043,
+        "basePrice": 23300000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            25000000,
+            69500000,
+            242000000,
+            740000000,
+            2980000000,
+            5400000000
+        ]
+    },
+    {
+        "name": "Manos Emerald Necklace",
+        "id": 11729,
+        "currentStock": 42,
+        "totalTrades": 2717,
+        "basePrice": 23300000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            25000000,
+            66750000,
+            227000000,
+            815000000,
+            2790000000,
+            5600000000
+        ]
+    },
+    {
+        "name": "Manos Diamond Necklace",
+        "id": 11730,
+        "currentStock": 13,
+        "totalTrades": 4977,
+        "basePrice": 23300000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            23400000,
+            74470000,
+            275000000,
+            875000000,
+            2990000000,
+            6000000000
+        ]
+    },
+    {
+        "name": "Loggia Necklace",
+        "id": 705501,
+        "currentStock": 24,
+        "totalTrades": 203607,
+        "basePrice": 745000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            751681,
+            3613999,
+            14693636,
+            72610416,
+            248642424,
+            1132352941
+        ]
+    },
+    {
+        "name": "Geranoa Necklace",
+        "id": 705505,
+        "currentStock": 16,
+        "totalTrades": 25693,
+        "basePrice": 8200000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            8738750,
+            25275000,
+            94333333,
+            416642857,
+            2877999999,
+            10300000000
+        ]
+    },
+    {
+        "name": "Manos Necklace",
+        "id": 705509,
+        "currentStock": 92,
+        "totalTrades": 220225,
+        "basePrice": 134000000,
+        "mainCategory": 20,
+        "subCategory": 2,
+        "grade": 4,
+        "maxEnhance": 5,
+        "prices": [
+            126762584,
+            299885549,
+            988780302,
+            3750171212,
+            19718000000,
+            147000000000
+        ]
+    },
+    {
+        "name": "Yuria Earring",
+        "id": 11801,
+        "currentStock": 21,
+        "totalTrades": 608099,
+        "basePrice": 62500,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            64346,
+            129333,
+            625000,
+            4880000,
+            11200000,
+            22400000
+        ]
+    },
+    {
+        "name": "Bares Earring",
+        "id": 11802,
+        "currentStock": 0,
+        "totalTrades": 1815392,
+        "basePrice": 65000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            56481,
+            134571,
+            1470000,
+            4880000,
+            10992857,
+            22294285
+        ]
+    },
+    {
+        "name": "Hesus Earring",
+        "id": 11803,
+        "currentStock": 30,
+        "totalTrades": 461246,
+        "basePrice": 33300,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            30743,
+            246200,
+            1540000,
+            4845500,
+            15700000,
+            31346801
+        ]
+    },
+    {
+        "name": "Elisha Earring",
+        "id": 11804,
+        "currentStock": 67,
+        "totalTrades": 517140,
+        "basePrice": 31600,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            31110,
+            118500,
+            725000,
+            2760000,
+            5636363,
+            8084615
+        ]
+    },
+    {
+        "name": "Kalis Earring",
+        "id": 11805,
+        "currentStock": 64,
+        "totalTrades": 368558,
+        "basePrice": 31200,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            29622,
+            112888,
+            745000,
+            4810769,
+            11188571,
+            22366666
+        ]
+    },
+    {
+        "name": "Talis Earring",
+        "id": 11806,
+        "currentStock": 41,
+        "totalTrades": 609601,
+        "basePrice": 31000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            29880,
+            112650,
+            881000,
+            4880000,
+            10500000,
+            17600000
+        ]
+    },
+    {
+        "name": "Token of Friendship",
+        "id": 11807,
+        "currentStock": 4,
+        "totalTrades": 70100,
+        "basePrice": 12600000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            12709999,
+            15600000,
+            69200000,
+            241692307,
+            775000000,
+            2170000000
+        ]
+    },
+    {
+        "name": "Witch's Earring",
+        "id": 11808,
+        "currentStock": 87,
+        "totalTrades": 2349024,
+        "basePrice": 3300000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            3661470,
+            21170999,
+            125980000,
+            425251428,
+            819100000,
+            3990000000
+        ]
+    },
+    {
+        "name": "Mesto Earring",
+        "id": 11810,
+        "currentStock": 28,
+        "totalTrades": 283104,
+        "basePrice": 4390000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            4405851,
+            14540000,
+            70850000,
+            208000000,
+            194000000,
+            293000000
+        ]
+    },
+    {
+        "name": "Ridell Earring",
+        "id": 11811,
+        "currentStock": 0,
+        "totalTrades": 610457,
+        "basePrice": 2540000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            2730000,
+            8200000,
+            30000000,
+            95015406,
+            102400000,
+            336666666
+        ]
+    },
+    {
+        "name": "Blue Whale Molar Earring",
+        "id": 11815,
+        "currentStock": 164,
+        "totalTrades": 152518,
+        "basePrice": 24600000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            24668999,
+            102500000,
+            238045454,
+            652000000,
+            1440000000,
+            5750000000
+        ]
+    },
+    {
+        "name": "Blue Coral Earring",
+        "id": 11816,
+        "currentStock": 640,
+        "totalTrades": 883264,
+        "basePrice": 6050000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            5943150,
+            29025423,
+            147600000,
+            434050549,
+            635000000,
+            2610000000
+        ]
+    },
+    {
+        "name": "Red Coral Earring",
+        "id": 11817,
+        "currentStock": 165,
+        "totalTrades": 924690,
+        "basePrice": 6450000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            6210321,
+            26400000,
+            146533333,
+            468000000,
+            1122000000,
+            1910000000
+        ]
+    },
+    {
+        "name": "Fugitive Khalk's Earring",
+        "id": 11827,
+        "currentStock": 0,
+        "totalTrades": 49167,
+        "basePrice": 115000000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            123000000,
+            132800000,
+            237000000,
+            1106666666,
+            2905000000,
+            12300000000
+        ]
+    },
+    {
+        "name": "Tungrad Earring",
+        "id": 11828,
+        "currentStock": 64,
+        "totalTrades": 2047609,
+        "basePrice": 52500000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            43909056,
+            170804559,
+            477286016,
+            1212665734,
+            4138154545,
+            18406666666
+        ]
+    },
+    {
+        "name": "Narc Ear Accessory",
+        "id": 11834,
+        "currentStock": 30,
+        "totalTrades": 2012007,
+        "basePrice": 8500000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            8126211,
+            24470364,
+            154091390,
+            550727272,
+            2420909090,
+            12650555555
+        ]
+    },
+    {
+        "name": "Black Distortion Earring",
+        "id": 11853,
+        "currentStock": 88,
+        "totalTrades": 1637633,
+        "basePrice": 250000000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            270564635,
+            616368181,
+            1909529761,
+            4356825097,
+            12325727272,
+            44654909090
+        ]
+    },
+    {
+        "name": "Dawn Earring",
+        "id": 11855,
+        "currentStock": 51,
+        "totalTrades": 291916,
+        "basePrice": 122000000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            126955124,
+            387140721,
+            1069651515,
+            3539696969,
+            11953000000,
+            45655000000
+        ]
+    },
+    {
+        "name": "Ethereal Earring",
+        "id": 11856,
+        "currentStock": 87,
+        "totalTrades": 152268,
+        "basePrice": 50500000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            55319798,
+            164616666,
+            493475000,
+            1477833333,
+            5784909090,
+            33771111111
+        ]
+    },
+    {
+        "name": "Vaha's Dawn",
+        "id": 11875,
+        "currentStock": 78,
+        "totalTrades": 181362,
+        "basePrice": 283000000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            277425815,
+            409917050,
+            1281903895,
+            4236333333,
+            12159419913,
+            47891590909
+        ]
+    },
+    {
+        "name": "Deboreka Earring",
+        "id": 11882,
+        "currentStock": 154,
+        "totalTrades": 82467,
+        "basePrice": 700000000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            769536139,
+            1548014285,
+            4985152601,
+            12687515151,
+            44848696969,
+            245666666666
+        ]
+    },
+    {
+        "name": "Ruby Earrings",
+        "id": 11901,
+        "currentStock": 26,
+        "totalTrades": 18342,
+        "basePrice": 8650,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            8669
+        ]
+    },
+    {
+        "name": "Resplendent Ruby Earrings",
+        "id": 11902,
+        "currentStock": 1,
+        "totalTrades": 5214,
+        "basePrice": 50500,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            53943
+        ]
+    },
+    {
+        "name": "Blood Ruby Earrings",
+        "id": 11903,
+        "currentStock": 0,
+        "totalTrades": 8035,
+        "basePrice": 107000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 1,
+        "maxEnhance": 0,
+        "prices": [
+            103372
+        ]
+    },
+    {
+        "name": "Dark Blood Ruby Earrings",
+        "id": 11904,
+        "currentStock": 0,
+        "totalTrades": 23438,
+        "basePrice": 349000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 2,
+        "maxEnhance": 0,
+        "prices": [
+            362500
+        ]
+    },
+    {
+        "name": "Corrupt Ruby Earrings",
+        "id": 11905,
+        "currentStock": 0,
+        "totalTrades": 41530,
+        "basePrice": 2630000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 3,
+        "maxEnhance": 0,
+        "prices": [
+            2819246
+        ]
+    },
+    {
+        "name": "Sapphire Earring",
+        "id": 11906,
+        "currentStock": 0,
+        "totalTrades": 716,
+        "basePrice": 10100,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            10520
+        ]
+    },
+    {
+        "name": "Resplendent Sapphire Earring",
+        "id": 11907,
+        "currentStock": 0,
+        "totalTrades": 464,
+        "basePrice": 50500,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            50500
+        ]
+    },
+    {
+        "name": "Ocean Sapphire Earring",
+        "id": 11908,
+        "currentStock": 0,
+        "totalTrades": 258,
+        "basePrice": 101000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 1,
+        "maxEnhance": 0,
+        "prices": [
+            101000
+        ]
+    },
+    {
+        "name": "Translucent Ocean Sapphire Earring",
+        "id": 11909,
+        "currentStock": 0,
+        "totalTrades": 261,
+        "basePrice": 343000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 2,
+        "maxEnhance": 0,
+        "prices": [
+            363986
+        ]
+    },
+    {
+        "name": "Sapphire Earring of Storms",
+        "id": 11910,
+        "currentStock": 0,
+        "totalTrades": 3658,
+        "basePrice": 2630000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 3,
+        "maxEnhance": 0,
+        "prices": [
+            2806000
+        ]
+    },
+    {
+        "name": "Topaz Earrings",
+        "id": 11911,
+        "currentStock": 5,
+        "totalTrades": 2822,
+        "basePrice": 10100,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            10800
+        ]
+    },
+    {
+        "name": "Resplendent Topaz Earrings",
+        "id": 11912,
+        "currentStock": 1,
+        "totalTrades": 1398,
+        "basePrice": 50500,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            50500
+        ]
+    },
+    {
+        "name": "Gold Topaz Earrings",
+        "id": 11913,
+        "currentStock": 0,
+        "totalTrades": 595,
+        "basePrice": 107000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 1,
+        "maxEnhance": 0,
+        "prices": [
+            110000
+        ]
+    },
+    {
+        "name": "Shining Gold Topaz Earrings",
+        "id": 11914,
+        "currentStock": 0,
+        "totalTrades": 962,
+        "basePrice": 347000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 2,
+        "maxEnhance": 0,
+        "prices": [
+            344600
+        ]
+    },
+    {
+        "name": "Topaz Earrings of Regeneration",
+        "id": 11915,
+        "currentStock": 0,
+        "totalTrades": 5854,
+        "basePrice": 2630000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 3,
+        "maxEnhance": 0,
+        "prices": [
+            2820000
+        ]
+    },
+    {
+        "name": "Manos Ruby Earring",
+        "id": 11926,
+        "currentStock": 8,
+        "totalTrades": 153864,
+        "basePrice": 13900000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            14900000,
+            42320000,
+            164000000,
+            525000000,
+            3544545454,
+            7200000000
+        ]
+    },
+    {
+        "name": "Manos Sapphire Earring",
+        "id": 11927,
+        "currentStock": 2,
+        "totalTrades": 7863,
+        "basePrice": 18200000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            19500000,
+            54500000,
+            214600000,
+            640000000,
+            2243000000,
+            4200000000
+        ]
+    },
+    {
+        "name": "Manos Topaz Earring",
+        "id": 11928,
+        "currentStock": 0,
+        "totalTrades": 6140,
+        "basePrice": 13900000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            14478544,
+            44780000,
+            164000000,
+            489000000,
+            1790000000,
+            3590000000
+        ]
+    },
+    {
+        "name": "Loggia Earring",
+        "id": 705502,
+        "currentStock": 18,
+        "totalTrades": 375540,
+        "basePrice": 820000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            845111,
+            3680041,
+            13339999,
+            121600167,
+            354858354,
+            1245714285
+        ]
+    },
+    {
+        "name": "Geranoa Earring",
+        "id": 705506,
+        "currentStock": 5,
+        "totalTrades": 39109,
+        "basePrice": 8200000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            8761538,
+            25670000,
+            95690000,
+            515150000,
+            3752941176,
+            10300000000
+        ]
+    },
+    {
+        "name": "Manos Earring",
+        "id": 705510,
+        "currentStock": 84,
+        "totalTrades": 343525,
+        "basePrice": 121000000,
+        "mainCategory": 20,
+        "subCategory": 3,
+        "grade": 4,
+        "maxEnhance": 5,
+        "prices": [
+            140481444,
+            402337349,
+            1138756493,
+            4001464646,
+            21187500000,
+            150000000000
+        ]
+    },
+    {
+        "name": "Yuria Belt",
+        "id": 12201,
+        "currentStock": 9,
+        "totalTrades": 406888,
+        "basePrice": 70500,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            72034,
+            144360,
+            665000,
+            6300000,
+            14150000,
+            28800000
+        ]
+    },
+    {
+        "name": "Bares Belt",
+        "id": 12202,
+        "currentStock": 1482,
+        "totalTrades": 1242845,
+        "basePrice": 46900,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            41023,
+            109400,
+            1704736,
+            6300000,
+            14000000,
+            28320888
+        ]
+    },
+    {
+        "name": "Hesus Belt",
+        "id": 12203,
+        "currentStock": 83,
+        "totalTrades": 289264,
+        "basePrice": 38900,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            37882,
+            140142,
+            645000,
+            6300000,
+            7050000,
+            28040000
+        ]
+    },
+    {
+        "name": "Elisha Belt",
+        "id": 12204,
+        "currentStock": 22,
+        "totalTrades": 391568,
+        "basePrice": 48000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            49012,
+            129000,
+            605000,
+            3590000,
+            5500000,
+            15573333
+        ]
+    },
+    {
+        "name": "Kalis Belt",
+        "id": 12205,
+        "currentStock": 2191,
+        "totalTrades": 691963,
+        "basePrice": 44900,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            44570,
+            108811,
+            610000,
+            5800000,
+            10145454,
+            28333333
+        ]
+    },
+    {
+        "name": "Talis Belt",
+        "id": 12206,
+        "currentStock": 1334,
+        "totalTrades": 642479,
+        "basePrice": 45300,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            46810,
+            108586,
+            749000,
+            6100000,
+            7600000,
+            14650000
+        ]
+    },
+    {
+        "name": "Rhutum Elite Belt",
+        "id": 12208,
+        "currentStock": 0,
+        "totalTrades": 269496,
+        "basePrice": 2290000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            2435420,
+            7350000,
+            27000000,
+            86000000,
+            196000000,
+            393000000
+        ]
+    },
+    {
+        "name": "Tree Spirit Belt",
+        "id": 12210,
+        "currentStock": 53,
+        "totalTrades": 697877,
+        "basePrice": 4040000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            4339967,
+            27191128,
+            155868571,
+            457000000,
+            855000000,
+            3760000000
+        ]
+    },
+    {
+        "name": "Belt of Shultz the Gladiator",
+        "id": 12211,
+        "currentStock": 80,
+        "totalTrades": 881362,
+        "basePrice": 4930000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            4893516,
+            44079166,
+            184616363,
+            462625000,
+            434000000,
+            875000000
+        ]
+    },
+    {
+        "name": "Gartner Belt",
+        "id": 12212,
+        "currentStock": 0,
+        "totalTrades": 70461,
+        "basePrice": 1900000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            2028972,
+            6150000,
+            22490819,
+            71500000,
+            163000000,
+            324862500
+        ]
+    },
+    {
+        "name": "Ancient Weapon Core",
+        "id": 12220,
+        "currentStock": 108,
+        "totalTrades": 1243699,
+        "basePrice": 3660000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            4065613,
+            25526315,
+            156578823,
+            504202197,
+            735000000,
+            5600000000
+        ]
+    },
+    {
+        "name": "Centaurus Belt",
+        "id": 12229,
+        "currentStock": 120,
+        "totalTrades": 1876892,
+        "basePrice": 7350000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            7081477,
+            25473165,
+            137149615,
+            496000419,
+            1953400000,
+            14799333333
+        ]
+    },
+    {
+        "name": "Basilisk's Belt",
+        "id": 12230,
+        "currentStock": 130,
+        "totalTrades": 1946740,
+        "basePrice": 7350000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            7352687,
+            22849702,
+            88432179,
+            435271043,
+            1959200000,
+            13672272727
+        ]
+    },
+    {
+        "name": "Valtarra Eclipsed Belt",
+        "id": 12236,
+        "currentStock": 216,
+        "totalTrades": 2041983,
+        "basePrice": 9350000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            8963792,
+            27414707,
+            105760448,
+            469485302,
+            2296600000,
+            16402333333
+        ]
+    },
+    {
+        "name": "Tungrad Belt",
+        "id": 12237,
+        "currentStock": 131,
+        "totalTrades": 1367638,
+        "basePrice": 30300000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            33932588,
+            145586868,
+            416359399,
+            1163461887,
+            4264330302,
+            28236000000
+        ]
+    },
+    {
+        "name": "Orkinrad's Belt",
+        "id": 12251,
+        "currentStock": 1788,
+        "totalTrades": 1573836,
+        "basePrice": 9350000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            8650000,
+            26669507,
+            92607477,
+            395482916,
+            1299844444,
+            7826666666
+        ]
+    },
+    {
+        "name": "Turo's Belt",
+        "id": 12257,
+        "currentStock": 84,
+        "totalTrades": 256024,
+        "basePrice": 64500000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            62255632,
+            175145175,
+            511430000,
+            1049100000,
+            3982000000,
+            25960000000
+        ]
+    },
+    {
+        "name": "Deboreka Belt",
+        "id": 12276,
+        "currentStock": 211,
+        "totalTrades": 51609,
+        "basePrice": 770000000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            802438047,
+            2142614006,
+            5939367424,
+            14613181818,
+            50201196969,
+            221000000000
+        ]
+    },
+    {
+        "name": "Taebaek's Belt",
+        "id": 12282,
+        "currentStock": 66,
+        "totalTrades": 17178,
+        "basePrice": 147000000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            156570874,
+            497900000,
+            1626392856,
+            3846500000,
+            10063333333,
+            34100000000
+        ]
+    },
+    {
+        "name": "Asadal Belt",
+        "id": 12285,
+        "currentStock": 47,
+        "totalTrades": 7694,
+        "basePrice": 60000000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            68073500,
+            341775833,
+            1000200000,
+            2646518181,
+            9430000000,
+            51460000000
+        ]
+    },
+    {
+        "name": "Coral Belt",
+        "id": 12301,
+        "currentStock": 0,
+        "totalTrades": 2692,
+        "basePrice": 20100,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            21600
+        ]
+    },
+    {
+        "name": "Polished Coral Belt",
+        "id": 12302,
+        "currentStock": 0,
+        "totalTrades": 2563,
+        "basePrice": 50500,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 0,
+        "maxEnhance": 0,
+        "prices": [
+            53988
+        ]
+    },
+    {
+        "name": "Red Coral Belt",
+        "id": 12303,
+        "currentStock": 0,
+        "totalTrades": 334,
+        "basePrice": 107000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 1,
+        "maxEnhance": 0,
+        "prices": [
+            110333
+        ]
+    },
+    {
+        "name": "Brilliant Red Coral Belt",
+        "id": 12304,
+        "currentStock": 0,
+        "totalTrades": 295,
+        "basePrice": 349000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 2,
+        "maxEnhance": 0,
+        "prices": [
+            366700
+        ]
+    },
+    {
+        "name": "Twilight Red Coral Belt",
+        "id": 12305,
+        "currentStock": 0,
+        "totalTrades": 1545,
+        "basePrice": 2630000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 0,
+        "prices": [
+            2756666
+        ]
+    },
+    {
+        "name": "Blue Coral Belt",
+        "id": 12308,
+        "currentStock": 0,
+        "totalTrades": 146,
+        "basePrice": 107000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 1,
+        "maxEnhance": 0,
+        "prices": [
+            112562
+        ]
+    },
+    {
+        "name": "Brilliant Blue Coral Belt",
+        "id": 12309,
+        "currentStock": 0,
+        "totalTrades": 400,
+        "basePrice": 349000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 2,
+        "maxEnhance": 0,
+        "prices": [
+            367923
+        ]
+    },
+    {
+        "name": "Daybreak Blue Coral Belt",
+        "id": 12310,
+        "currentStock": 0,
+        "totalTrades": 969,
+        "basePrice": 2630000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 0,
+        "prices": [
+            2796856
+        ]
+    },
+    {
+        "name": "Green Coral Belt",
+        "id": 12313,
+        "currentStock": 0,
+        "totalTrades": 152,
+        "basePrice": 107000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 1,
+        "maxEnhance": 0,
+        "prices": [
+            115000
+        ]
+    },
+    {
+        "name": "Brilliant Green Coral Belt",
+        "id": 12314,
+        "currentStock": 0,
+        "totalTrades": 143,
+        "basePrice": 349000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 2,
+        "maxEnhance": 0,
+        "prices": [
+            375000
+        ]
+    },
+    {
+        "name": "Prairie Green Coral Belt",
+        "id": 12315,
+        "currentStock": 0,
+        "totalTrades": 419,
+        "basePrice": 2630000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 0,
+        "prices": [
+            2708387
+        ]
+    },
+    {
+        "name": "Golden Coral Belt",
+        "id": 12318,
+        "currentStock": 0,
+        "totalTrades": 861,
+        "basePrice": 107000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 1,
+        "maxEnhance": 0,
+        "prices": [
+            115000
+        ]
+    },
+    {
+        "name": "Brilliant Golden Coral Belt",
+        "id": 12319,
+        "currentStock": 0,
+        "totalTrades": 974,
+        "basePrice": 349000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 2,
+        "maxEnhance": 0,
+        "prices": [
+            375000
+        ]
+    },
+    {
+        "name": "Golden Sun Coral Belt",
+        "id": 12320,
+        "currentStock": 0,
+        "totalTrades": 4275,
+        "basePrice": 2630000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 0,
+        "prices": [
+            2815292
+        ]
+    },
+    {
+        "name": "White Coral Belt",
+        "id": 12323,
+        "currentStock": 0,
+        "totalTrades": 178,
+        "basePrice": 107000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 1,
+        "maxEnhance": 0,
+        "prices": [
+            115000
+        ]
+    },
+    {
+        "name": "Brilliant White Coral Belt",
+        "id": 12324,
+        "currentStock": 0,
+        "totalTrades": 232,
+        "basePrice": 349000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 2,
+        "maxEnhance": 0,
+        "prices": [
+            375000
+        ]
+    },
+    {
+        "name": "Breezy White Coral Belt",
+        "id": 12325,
+        "currentStock": 0,
+        "totalTrades": 664,
+        "basePrice": 2630000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 0,
+        "prices": [
+            2820000
+        ]
+    },
+    {
+        "name": "Manos Red Coral Belt",
+        "id": 12326,
+        "currentStock": 82,
+        "totalTrades": 1859,
+        "basePrice": 182000000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            189000000,
+            296000000,
+            675000000,
+            1660000000,
+            8100000000,
+            16000000000
+        ]
+    },
+    {
+        "name": "Manos Blue Coral Belt",
+        "id": 12327,
+        "currentStock": 31,
+        "totalTrades": 4444,
+        "basePrice": 118000000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            126100000,
+            250000000,
+            670000000,
+            1720000000,
+            8733333333,
+            46800000000
+        ]
+    },
+    {
+        "name": "Manos Green Coral Belt",
+        "id": 12328,
+        "currentStock": 6,
+        "totalTrades": 1072,
+        "basePrice": 136000000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            136000000,
+            198000000,
+            600000000,
+            1640000000,
+            7350000000,
+            16000000000
+        ]
+    },
+    {
+        "name": "Manos Golden Coral Belt",
+        "id": 12329,
+        "currentStock": 55,
+        "totalTrades": 33141,
+        "basePrice": 93500000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            99433332,
+            314500000,
+            890000000,
+            3266761904,
+            9038888888,
+            43600000000
+        ]
+    },
+    {
+        "name": "Manos White Coral Belt",
+        "id": 12330,
+        "currentStock": 81,
+        "totalTrades": 4974,
+        "basePrice": 171000000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 3,
+        "maxEnhance": 5,
+        "prices": [
+            170887205,
+            261000000,
+            1137500000,
+            2170000000,
+            8650000000,
+            46800000000
+        ]
+    },
+    {
+        "name": "Loggia Belt",
+        "id": 705504,
+        "currentStock": 31,
+        "totalTrades": 195059,
+        "basePrice": 755000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 1,
+        "maxEnhance": 5,
+        "prices": [
+            759275,
+            3536342,
+            14757272,
+            71899090,
+            345336190,
+            1311764705
+        ]
+    },
+    {
+        "name": "Geranoa Belt",
+        "id": 705508,
+        "currentStock": 13,
+        "totalTrades": 27743,
+        "basePrice": 8200000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 2,
+        "maxEnhance": 5,
+        "prices": [
+            8516000,
+            26178333,
+            95976190,
+            532381817,
+            3232249999,
+            10300000000
+        ]
+    },
+    {
+        "name": "Manos Belt",
+        "id": 705512,
+        "currentStock": 47,
+        "totalTrades": 199106,
+        "basePrice": 93000000,
+        "mainCategory": 20,
+        "subCategory": 4,
+        "grade": 4,
+        "maxEnhance": 5,
+        "prices": [
+            105022275,
+            304207938,
+            1130224999,
+            3728707692,
+            17620666666,
+            150000000000
+        ]
+    }
+]

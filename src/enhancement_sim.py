@@ -24,11 +24,12 @@ def fs_to_rate(fs, lvl):
     rates = [.25, .1, .075, .025, .005]
     # Softcaps for base - tet
     softcaps=[18, 40, 44, 110, 490]
-    
-    return rates[lvl] + (fs * (rates[lvl] / 10) if fs <= softcaps[lvl] else softcaps[lvl] * (rates[lvl] / 10) + (fs - softcaps[lvl]) * (rates[lvl] / 50 ))
+    rate = rates[lvl] + (fs * (rates[lvl] / 10) if fs <= softcaps[lvl] else softcaps[lvl] * (rates[lvl] / 10) + (fs - softcaps[lvl]) * (rates[lvl] / 50 ))
+    rate = rate if rate < .9 else .9
+    return rate
 
 def simulate_enhancement(accessory: dict, start:int, end:int, rates: List[float]):
-    if start < 0 or end > 4 or start >= end:
+    if start < 0 or end > 5 or start >= end:
         raise ValueError("Invalid start and end values")
     prof = 0
     i = start
