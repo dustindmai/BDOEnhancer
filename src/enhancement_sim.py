@@ -1,7 +1,7 @@
 import random
 from typing import List
 
-def enhance(chance):
+def enhance(chance) -> bool:
     if chance < 0 or chance > 1:
         raise ValueError("Chance must be between 0 and 1")
 
@@ -18,7 +18,7 @@ def fs_to_rate(fs, lvl):
         raise ValueError("FS cannot be negative")
     if lvl < 0 or lvl > 4:
         raise ValueError("Level must be between 0 and 4 inclusive")
-    # Base rates for base - tet
+    # Base rates for base - tet for yellow items
     # For each fs between 0 and softcap, rate increases by rate/10
     # For each fs above softcap, rate increases by rate/50
     rates = [.25, .1, .075, .025, .005]
@@ -31,15 +31,15 @@ def fs_to_rate(fs, lvl):
 def simulate_enhancement(accessory: dict, start:int, end:int, rates: List[float]):
     if start < 0 or end > 5 or start >= end:
         raise ValueError("Invalid start and end values")
-    prof = 0
+    loss = 0
+    gain = 0
     i = start
     while i < end:
-        prof -= accessory['prices'][0]
+        loss += accessory['prices'][0]
         if enhance(rates[i]):
-            prof += accessory['prices'][i+1] - accessory['prices'][i]
+            gain += accessory['prices'][i+1] - accessory['prices'][i]
             i += 1
         else:
-            prof -= accessory['prices'][i]
+            loss += accessory['prices'][i]
             i=start
-    return prof
-
+    return [loss, gain]
