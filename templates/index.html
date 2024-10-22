@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enhancement Simulation</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body class="bg-light">
+    <div class="container mt-5">
+        <h1 class="text-center">Enhancement Simulation</h1>
+        <form action="/" method="POST" class="mt-4">
+            <div class="form-row">
+                <div class="col">
+                    <label for="start">Start Level</label>
+                    <input type="number" class="form-control" id="start" name="start" min="0" max="4" value="0" required>
+                </div>
+                <div class="col">
+                    <label for="stop">Stop Level</label>
+                    <input type="number" class="form-control" id="stop" name="stop" min="1" max="5" value="5" required>
+                </div>
+                <div class="col">
+                    <label for="trials">Number of Trials</label>
+                    <input type="number" class="form-control" id="trials" name="trials" value="10000" required>
+                </div>
+            </div>
+
+            <div class="form-row mt-4">
+                <div class="col">
+                    <label for="fs0">PRI Failstack</label>
+                    <input type="number" class="form-control" id="fs0" name="fs0" value="18" required>
+                </div>
+                <div class="col">
+                    <label for="fs1">DUO Failstack</label>
+                    <input type="number" class="form-control" id="fs1" name="fs1" value="40" required>
+                </div>
+                <div class="col">
+                    <label for="fs2">TRI Failstack</label>
+                    <input type="number" class="form-control" id="fs2" name="fs2" value="44" required>
+                </div>
+                <div class="col">
+                    <label for="fs3">TET Failstack</label>
+                    <input type="number" class="form-control" id="fs3" name="fs3" value="110" required>
+                </div>
+                <div class="col">
+                    <label for="fs4">PEN Failstack</label>
+                    <input type="number" class="form-control" id="fs4" name="fs4" value="200" required>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-block mt-4">Run Simulation</button>
+        </form>
+    </div>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ accessory.name }} - Details</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body class="bg-light">
+    <div class="container mt-5">
+        <h1 class="text-center">{{ accessory.name }} - Details</h1>
+        <ul class="list-group mt-4">
+            <li class="list-group-item"><strong>Total Gain:</strong> {{ "{:,.0f}".format(accessory.gain) }}</li>
+            <li class="list-group-item"><strong>Total Loss:</strong> {{ "{:,.0f}".format(accessory.loss) }}</li>
+            <li class="list-group-item"><strong>Profit Percentage:</strong> {{ "{:,.2f}".format(accessory.profit_percent) }}%</li>
+        </ul>
+        <a href="/results" class="btn btn-primary mt-4">Back to Results</a>
+    </div>
+    <div class="text-center">
+        <img class="img-fluid" src="data:image/png;base64,{{ accessory.plot_url }}" alt="Plot for {{ accessory.name }}">
+    </div>
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
